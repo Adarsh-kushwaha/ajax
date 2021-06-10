@@ -1,0 +1,31 @@
+.header{
+display: flex;
+justify-content: center;
+margin: 34px;
+padding: 24px;
+
+}
+
+button{
+
+    margin: 0 34px;
+    padding: 10px 14px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.info{
+
+    
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.hidden{
+
+    display: none;
+}
